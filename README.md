@@ -3,7 +3,7 @@
 ATREX (Advanced Tools for Research in Extreme Xtallography)
 integrated open source data analysis software for mineral and environmental sciences
 
-ATREX-powder
+ATREX-powder: 
 Intergation tool for two-dimensional powder diffraction data
 
 # Team
